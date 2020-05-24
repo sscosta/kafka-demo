@@ -6,7 +6,7 @@ The presentation was limited to 15 minutes, 12 for the presentation itself and 3
 
 I chose to present an introduction to Apache Kafka. The reason for this choice was that I recently have been using it at work, so I already have studied it on my own. I wanted to present the challenges Kafka addresses, how it deals with it and see more in-depth the composition of a kafka topic, including partitions and consumer groups. I thought these concepts could be summarized in that time frame, hopefully not over-simplifying them.
 
-As the presentation was very limited in time, the demo was very elemental. I presented the creation of a topic, a console consumer and producer. I then emitted some records to the topic and showed the audience that the consumer received the messages. The commands were not showed in full as some of them took a long time  (e.g. pulling the docker image from docker hub).
+As the presentation was very limited in time, the demo was very rudimentary. I presented the creation of a topic, a console consumer and producer. I then emitted some records to the topic and showed the audience that the consumer received the messages. The commands were not showed in full as some of them took a long time  (e.g. pulling the docker image from docker hub).
 
 ## Guide
 Following is a complete guide to reproducing the demo. This repository also includes a scala app that reads from a topic, does a transformation and writes to another topic.
