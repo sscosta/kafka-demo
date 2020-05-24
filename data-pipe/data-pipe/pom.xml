@@ -20,7 +20,7 @@
       <scala.version>2.12.6</scala.version>
       <scala.compat.version>2.12</scala.compat.version>
       <spec2.version>4.2.0</spec2.version>
-      <jackson.version>2.6.5</jackson.version>
+      <jackson.version>2.10.2</jackson.version>
     </properties>
     <dependencies>
       <dependency>
