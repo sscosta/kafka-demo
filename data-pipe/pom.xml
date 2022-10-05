@@ -25,7 +25,7 @@
         <slf4j.version>1.7.30</slf4j.version>
       
         <spark.version>2.4.4</spark.version>
-        <jackson.version>2.10.2</jackson.version>
+        <jackson.version>2.12.6.1</jackson.version>
 
         <maven.compiler.plugin.version>3.8.1</maven.compiler.plugin.version>
         <maven.scala.plugin.version>4.1.1</maven.scala.plugin.version>
